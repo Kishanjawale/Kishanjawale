@@ -2,6 +2,7 @@
 - 👀 I’m interested in  C,C++,Java ...
 - 🌱 I’m currently learning Python ...
 - - 📫 How to reach me kishanjawale10@gmail.com...
-- Bibliophile
+- BIBLIOPHILE 
 - GHRCEM 2023
-- 
+- Dream Company:THOUGHT WORKS
+-STUDENT OF MARVELLOUS INFOSYSTEM 
