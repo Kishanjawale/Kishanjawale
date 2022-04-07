@@ -6,4 +6,4 @@
 - GHRCEM 2023
 - Dream Company:THOUGHT WORKS
 - STUDENT OF MARVELLOUS INFOSYSTEM 
-Once a Legend said “आयुष्य खूप सुंदर आहे फक्त Programming जमलं पाहिजे.”👨‍💻
+-Once a Legend said “आयुष्य खूप सुंदर आहे फक्त Programming जमलं पाहिजे.”👨‍💻
