@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kishan Jawale</h1>
 <h3 align="center">A passionate NATIVE developer from India</h3>
-(https://user-images.githubusercontent.com/90171427/180663910-ea111309-9a9b-4d5e-8f0f-f57dadc1ac1c.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
