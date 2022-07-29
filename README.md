@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kishan-jawale-143859233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kishan-jawale-143859233/" height="30" width="40" /></a>
 <a href="https://fb.com/kishan jawale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kishan jawale" height="30" width="40" /></a>
-<a href="www.instagram.com/_bunny_jawale_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_bunny_jawale_/" height="30" width="40" /></a>
+<a href="[www.instagram.com/_bunny_jawale_/](https://www.instagram.com/_bunny_jawale_/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_bunny_jawale_/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucw_htus_vldogyflg3jdmlq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucw_htus_vldogyflg3jdmlq" height="30" width="40" /></a>
 </p>
 
