@@ -92,11 +92,6 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishanjawale&show_icons=true&locale=en" alt="kishanjawale" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishanjawale&" alt="kishanjawale" /></p>
